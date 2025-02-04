@@ -1,1 +1,2 @@
 Contenu du fichier2
+modification du contenu du fichier2.txt
